@@ -1,0 +1,23 @@
+# GIF 素材（默认不提交，避免版权风险；自制演示 GIF 需单独审核）
+*.gif
+!docs/screenshots/*.png
+!docs/screenshots/*.jpg
+!docs/screenshots/*.jpeg
+!docs/screenshots/*.webp
+
+# 音乐与歌词（版权文件）
+*.mp3
+*.wav
+*.wma
+*.lrc
+
+# 用户配置
+config.ini
+
+# Claude Code 本地配置
+.claude/
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
